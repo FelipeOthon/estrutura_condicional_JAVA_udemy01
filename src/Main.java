@@ -18,6 +18,7 @@ public class Main {
         } else {
             System.out.println("Bom noite.");
         }
+        scanner.close();
     }
 }
 
