@@ -11,12 +11,12 @@ public class Main {
 
         if (horas < 12)
 
-            System.out.println("Bom dia!");
+            System.out.println("Bom dia.");
 
         else if (horas < 18) {
-            System.out.println("Bom tarde!");
+            System.out.println("Bom tarde.");
         } else {
-            System.out.println("Bom noite!");
+            System.out.println("Bom noite.");
         }
     }
 }
